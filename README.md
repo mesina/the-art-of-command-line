@@ -19,7 +19,7 @@
 
 ![curl -s 'https://raw.githubusercontent.com/jlevy/the-art-of-command-line/master/README.md' | egrep -o '`\w+`' | tr -d '`' | cowsay -W50](cowsay.png)
 
-Fluency on the command line is a skill often neglected or considered arcane, but it improves your flexibility and productivity as an engineer in both obvious and subtle ways. This is a selection of notes and tips on using the command-line that I've found useful when working on Linux. Some tips are elementary, and some are fairly specific, sophisticated, or obscure. This page is not long, but if you can use and recall all the items here, you know a lot.
+مان زیادی به پایان عمر سیستم‌عامل ویندوز فون نمانده چون مایکروسافت می‌خواهد ویندوز ۱۰ را جایگزین ویندوز برای رایانه، تبلت و گوشی‌های موبایل بکند تا هر سه از یک اکوسیستم بهره ببرند. هدف بزرگ ویندوز ۱۰ Continuum یا پیوستگی کار با ویندوز در رایانه، تبلت و گوشی یکی از اهداف بزرگ ویندوز ۱۰ است. بدین‌صورت وقتی کاربر با دستگاه‌های مختلف کار می‌کند درون یک اکوسیستم قرار دارد و اطلاعاتش میان این دستگاه‌ها مشترک هستند. در این صورت می‌تواند راحت‌تر از گذشته با هرکدام از گجت‌هایش کار بکند. حتی اگر کار با آفیس در موبایل برایتان سخت است می‌توانید گوشی را به یک نمایشگر بزرگ‌تر متصل کنید تا آفیس کامپیوتر را بر روی آن نمایشگر ببینید و با آن کار بکنید. هم‌اکنون نسخهٔ آزمایشی ویندوز ۱۰ برای موبایل عرضه شده است. می‌خواهیم ببینیم ویندوز ۱۰ نسبت به ویندوز فون ۸.۱ چه تفاوت‌هایی داشته و چه قابلیت‌هایی برای ما به ارمغان خواهد آورد. ظاهری جدید برای صفحهٔ خانه تغییرات ظاهری، مهم‌ترین چیزی است که کاربر را ترغیب می‌کند تا نسخهٔ جدید سیستم‌عامل را بر روی گوشی‌اش نصب کند. در ویندوز فون ۸.۱ این قابلیت را داشتیم که...
 
 Much of this
 [originally](http://www.quora.com/What-are-some-lesser-known-but-useful-Unix-commands)
